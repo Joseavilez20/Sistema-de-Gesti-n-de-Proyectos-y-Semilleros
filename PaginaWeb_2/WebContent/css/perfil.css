@@ -1,0 +1,48 @@
+
+.tabla1 table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tabla1 th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+.tabla1 tr:nth-child(even){background-color: #f2f2f2}
+
+ .tabla1 th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+a.act:link, a.act:visited ,input[type=submit] {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a.act:hover, a.act:active {
+    background-color: red;
+}
+
+a.agregar:link, a.agregar:visited {
+    background-color: #33b5e5;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a.agregar:hover, a.agregar:active {
+    background-color: #0099cc;
+}
+span{
+	color:white;
+}

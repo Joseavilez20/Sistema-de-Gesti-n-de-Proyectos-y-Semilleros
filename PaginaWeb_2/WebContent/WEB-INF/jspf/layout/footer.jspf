@@ -1,0 +1,38 @@
+<footer class="page-footer ">
+    <div class="container">
+      <div class="row">
+        <div class="columna ">
+          <h5 class="white-text">Bienestar Universitario</h5>
+          <p class="grey-text text-lighten-4">Es una entidad que provee de recursos a los estudiante.El estudiante tendrá el compromiso de velar por su beneficio.</p>
+
+
+        </div>
+        <div class="columna">
+          <h5 class="white-text">Configuracion</h5>
+          <ul>
+            <li><a class="white-text" href="#!">Link 1</a></li>
+            <li><a class="white-text" href="#!">Link 2</a></li>
+            <li><a class="white-text" href="#!">Link 3</a></li>
+            <li><a class="white-text" href="#!">Link 4</a></li>
+          </ul>
+        </div>
+        <div class="columna">
+          <h5 class="white-text">Conectate</h5>
+          <ul>
+            <li><a class="white-text" href="#!">Link 1</a></li>
+            <li><a class="white-text" href="#!">Link 2</a></li>
+            <li><a class="white-text" href="#!">Link 3</a></li>
+            <li><a class="white-text" href="#!">Link 4</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container">
+      Hecho con <a class="textfooter " href="#">Amor y Pasion</a>
+      </div>
+    </div>
+  </footer>
+	</div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+	<meta name="description" content="Ejemplo de HTML5">
+	<meta name="keywords" content="HTML5, CSS3, JavaScript">
+	
+	<title>Usuario</title>
+	<link rel="stylesheet" href="css/estilomenu.css">
+	<link rel="stylesheet" href="css/perfil.css">
+	<link rel="stylesheet" href="css/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="css/font-awesome-4.7.0/css/font-awesome.min.css">
+	
+	
+	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+	<!-- <script src="js/validacion.js"></script>-->
+</head>
+<body class="w3-light-grey">
+<div id="agrupar"> 
+		<header id="cabecera">
+			<h1>Bienvenido al Sistema de Gestion de Semilleros y Proyectos</h1>
+			
+		</header>

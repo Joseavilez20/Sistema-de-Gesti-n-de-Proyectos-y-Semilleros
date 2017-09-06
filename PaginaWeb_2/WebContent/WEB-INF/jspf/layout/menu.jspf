@@ -1,0 +1,19 @@
+<div class="topnav" id="myTopnav">
+  <a href="#home">Inicio</a>
+  <a href="#contact">Contacto</a>
+  <a href="#about">Acerca de nosotros</a>
+  <a class="posright" href="#" onclick="document.getElementById('id01').style.display='block'; return false;">Iniciar Sesión</a>
+  <a class="posright" href="#" onclick="document.getElementById('id02').style.display='block'; return false;">Registrarse</a>
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>

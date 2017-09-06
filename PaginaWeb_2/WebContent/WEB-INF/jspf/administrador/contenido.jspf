@@ -1,0 +1,27 @@
+
+<div class="header">
+  <h1>ADMINISTRACION DEL SISTEMA </h1>
+  
+
+</div>
+
+<div class="row">
+
+<div class="col-3 col-m-3 menu">
+<ul>
+  <li><a href="ControlUsuario?action=estadisticas" class="tablinks " onclick="openCity(event, 'info')">Estadisticas</button></a></li>
+  <li><a href="ControlUsuario?action=listUser" class="tablinks"   onclick="openCity(event, 'info')" >Gestion de Usuarios</a></li>
+  <li><a href="ControlSemillero?action=listar"  class="tablinks"   onclick="openCity(event, 'info')"  >Gestion de Semilleros</a></li>
+  <li><a href="ControlProyecto?action=listarProyectos"  class="tablinks"   onclick="openCity(event, 'info')">Gestion de Proyectos</a></li>
+  <li><a href="#"  class="tablinks"   onclick="openCity(event, 'info')">Privilegios</a></li>
+  <li><a href="#"  class="tablinks"   onclick="openCity(event, 'info')">Seguridad</a></li>
+   <li> <a href="LogoutServlet"  class="tablinks"  onclick="openCity(event, 'info')">Salir</a></li>
+</ul>
+  
+</div>
+
+<div class="col-9 col-m-9">
+
+  <div id="info" class="tabcontent">
+
+

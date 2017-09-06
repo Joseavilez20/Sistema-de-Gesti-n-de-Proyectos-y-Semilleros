@@ -1,0 +1,33 @@
+
+<div class="containereventos">
+<h1 id="tituloevento" >EVENTOS</h1>
+
+<div class="gallery">
+  <a target="_blank" href="images/sistemacargadorsolar.jpeg">
+    <img src="images/sistemacargadorsolar.jpeg" alt="sistema cargador solar" width="300" height="200">
+  </a>
+  <div class="desc">Evento 1</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/generadordeenergia.jpeg">
+    <img src="images/generadordeenergia.jpeg" alt="generador de energia" width="600" height="400">
+  </a>
+  <div class="desc">Evento realizado en colombia</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/presentacioncargadorsolar.jpeg">
+    <img src="images/presentacioncargadorsolar.jpeg" alt="presentacioncargadorsolar" width="600" height="400">
+  </a>
+  <div class="desc">Encuentro de semilleros</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/sistemacocina.jpeg">
+    <img src="images/sistemacocina.jpeg" alt="sistema de cocinado solar" width="600" height="400">
+  </a>
+  <div class="desc">Primer proyecto sostenible</div>
+</div>
+</div>
+

@@ -1,0 +1,39 @@
+</div>
+</div>
+<div class="col-12 col-m-12">
+  <div class="aside">
+    <h2>Soporte administrador </h2>
+    <p>@admin.com</p>
+    <h2>protectos sostenibles</h2>
+    <p>como realizar monitorias?</p>
+    <h2>unicordoba</h2>
+    <p>www.gestionInvestigativaUnicor.com</p>
+  </div>
+</div>
+
+</div>
+<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+
+<div class="footer">
+  <p>by GSU@soporte.com</p>
+</div>
+</div>
+</body>
+</html>
